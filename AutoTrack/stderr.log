@@ -1,0 +1,8 @@
+2024-02-04 19:46:55,181  --  INFO -- 'int' object is not subscriptable
+2024-02-04 19:46:55,181  --  WARNING -- Retrying function upload_tracks
+2024-02-04 19:53:27,795  --  INFO -- list index out of range
+2024-02-04 19:53:27,795  --  WARNING -- Retrying function upload_tracks
+2024-02-05 01:33:13,146  --  INFO -- list index out of range
+2024-02-05 01:33:13,146  --  WARNING -- Retrying function upload_tracks
+2024-02-05 01:37:18,595  --  INFO -- list index out of range
+2024-02-05 01:37:18,595  --  WARNING -- Retrying function upload_tracks
